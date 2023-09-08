@@ -1,4 +1,4 @@
-# Laboratorio No. 6 - Networking, Background Processes & PID
+# Laboratorio No. 7 - Networking, Background Processes & PID
 
 #### Instrucciones:
 Siga paso a paso los comandos en este documento y grabe un video de su servidor mientras realiza el laboratorio, suba su video a Youtube y entregue el link vía GES
